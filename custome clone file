@@ -1,0 +1,7 @@
+echo "# cd-Desktop-git-clone-https-github.com-AzeemIdrisi-PhoneSploit-Pro" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/baby0boy/cd-Desktop-git-clone-https-github.com-AzeemIdrisi-PhoneSploit-Pro.git
+git push -u origin main  
